@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Yelp_clone/static/css/main.8d191c08.chunk.css",
+    "main.js": "/Yelp_clone/static/js/main.40007b32.chunk.js",
+    "main.js.map": "/Yelp_clone/static/js/main.40007b32.chunk.js.map",
+    "runtime-main.js": "/Yelp_clone/static/js/runtime-main.f179067f.js",
+    "runtime-main.js.map": "/Yelp_clone/static/js/runtime-main.f179067f.js.map",
+    "static/js/2.b152fa3f.chunk.js": "/Yelp_clone/static/js/2.b152fa3f.chunk.js",
+    "static/js/2.b152fa3f.chunk.js.map": "/Yelp_clone/static/js/2.b152fa3f.chunk.js.map",
+    "index.html": "/Yelp_clone/index.html",
+    "precache-manifest.6f3fdce2553cae1ed97915711d81aeb2.js": "/Yelp_clone/precache-manifest.6f3fdce2553cae1ed97915711d81aeb2.js",
+    "service-worker.js": "/Yelp_clone/service-worker.js",
+    "static/css/main.8d191c08.chunk.css.map": "/Yelp_clone/static/css/main.8d191c08.chunk.css.map",
+    "static/js/2.b152fa3f.chunk.js.LICENSE.txt": "/Yelp_clone/static/js/2.b152fa3f.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Yelp_clone/static/media/background_search_mobile.5d0905e6.jpg",
+    "static/media/logo.svg": "/Yelp_clone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f179067f.js",
+    "static/js/2.b152fa3f.chunk.js",
+    "static/css/main.8d191c08.chunk.css",
+    "static/js/main.40007b32.chunk.js"
+  ]
+}
